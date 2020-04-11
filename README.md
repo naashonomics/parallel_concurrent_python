@@ -12,6 +12,7 @@ https://github.com/naashonomics/parallel_concurrent_python/blob/master/multiple_
 
 3> Execution Scheduling 
 
+https://github.com/naashonomics/parallel_concurrent_python/blob/master/execution_scheduling.py
 
 4> Thread Lifecycle
 
